@@ -12,6 +12,6 @@ php index.php
 
 
 ##详解##
-请参加我的blog的文章[使用composer中的autoload](http://gywbd.github.io/posts/2014/12/composer-autoload.html)。
+请参见我的blog的文章[使用composer中的autoload](http://gywbd.github.io/posts/2014/12/composer-autoload.html)。
 
 
